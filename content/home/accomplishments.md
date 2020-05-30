@@ -56,8 +56,8 @@ date_format = "Jan 2006"
   title = "Academic Excellence Scholarship"
   url = ""
   certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = ""
+  date_start = "2017-08-18"
+  date_end = "2021-05-30"
   description = """This scholarship provides complete coverage of tuition and mandatory fees for four years of undergraduate education. It   also porvides a $1,000 per semester cash stipend to defray the costs of books, supplies and other expenses. """
  
 +++
