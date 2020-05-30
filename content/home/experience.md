@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Undergraduate Research Assistant"
+  company = "Quantitative BioImaging Lab at UT Dallas"
+  company_url = "https://fei-lab.org/"
+  location = "Texas"
+  date_start = "03/2019"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Develop custom software to automate data collection using cross-platform APIs
+  * Synthesize multimodal imagery to create coherent pictures guiding clinical decision making and interventions
+  * Use Deep Learning to process medical images
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Embedded Systems Engineering Intern"
+  company = "Locomotor Control Systems Laboratory at UT Dallas"
+  company_url = "http://web.eecs.umich.edu/locolab/team.html"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2018-03-01"
+  date_end = "2019-03-01"
+  description = """
+  Responsibilities include:
+  
+  * Develop efficient software for the real-time processing of the embedded systems used in prostheses and exoskeletons
+  * Test and debug existing code to integrate new functionalities like wireless control protocols
+  """
+
+[[experience]]
+  title = "Visiting Research Intern
+  company = "Biomedical Physics Department, The University of Dhaka"
+  company_url = ""
+  location = "Dhaka, Bangladesh"
+  date_start = "2018-06-01"
+  date_end = "2018-08-15"
+  description = """
+  Responsibilities include:
+  
+  * DDevelop the hardware and software for a telemedicine web-server
+  """
 
 +++
