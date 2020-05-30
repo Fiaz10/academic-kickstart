@@ -19,17 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Undergraduate Research Assistant"
+  company = "Quantitative BioImaging Lab at UT Dallas"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Texas"
+  date_start = "2019-03-01"
   
   date_end = ""
   description = """
   Responsibilities include:
 
-  * Analysing
+  * Develop custom software to automate data collection using cross-platform APIs
   * Modelling
   * Deploying
 
