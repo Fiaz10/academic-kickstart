@@ -30,18 +30,18 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Develop custom software to automate data collection using cross-platform APIs
-  * Modelling
-  * Deploying
+  * Synthesize multimodal imagery to create coherent pictures guiding clinical decision making and interventions
+  * Use Deep Learning to process medical images
 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Embedded Systems Engineering Intern"
+  company = "Locomotor Control Systems Laboratory at UT Dallas"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Texas"
+  date_start = "2018-03-01"
+  date_end = "2019-03-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
