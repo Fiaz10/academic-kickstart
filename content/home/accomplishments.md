@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Acheivements"     # "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -21,13 +21,23 @@ date_format = "Jan 2006"
 
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Institute of Electrical and Electronics Engineers (IEEE)"
+  organization_url = ""
+  title = "Outstanding Student Member Award - IEEE Region 5"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2020-03-24"
+  date_end = ""
+  description = """MD Fiaz Islam Bhuiyan has been selected to receive the IEEE Region 5 Outstanding Student Member Award for his             exceptional contributions of time and effort to the Student Branch, the Section, the Region, and the National IEEE to advance the         principals of IEEE. Fiaz has demonstrated a high caliber not only through his contributions to the community but also in maintaining a     strong academic standing and dedicated research work."""
+ 
+ [[item]]
+  organization = "The University of Texas at Dallas"
+  organization_url = ""
+  title = "Undergraduate Research Scholar Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """ Fiaz has been awarded the Undergraduate Research Scholar Award for his extraordinary contributions to research under     the supervision of Prof. Baowei Fei. This award will comes with a research stipend of $500 for the student and $300 for the supervisor. """
 
 +++
