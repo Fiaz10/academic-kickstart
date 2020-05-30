@@ -5,6 +5,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
+# Experience Widget
+widget = "experience"
+heedless = true
+weight = 30
+
 title = "Biography"
 
 # Choose the user profile to display
