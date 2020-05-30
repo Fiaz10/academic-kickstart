@@ -42,6 +42,25 @@ date_format = "Jan 2006"
   location = "Texas"
   date_start = "2018-03-01"
   date_end = "2019-03-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Responsibilities include:
+  * Develop efficient software for the real-time processing of the embedded systems used in prostheses and exoskeletons
+  * Test and debug existing code to integrate new functionalities like wireless control protocols
+  
+  """
+[[experience]]
+  title = "Visiting Research Intern"
+  company = "Biomedical Physics Department, The University of Dhaka"
+  company_url = ""
+  location = "Bangladesh"
+  date_start = "2018-06-01"
+  
+  date_end = "2018-08-12"
+  description = """
+  Responsibilities include:
+
+  * Develop the hardware and software for a telemedicine web-server
+
+  """
 
 +++
