@@ -74,7 +74,7 @@ user_groups:
 
 I'm Fiaz, a senior Computer Engineering student at The University of Texas at Dallas (UTD). I'm currently an undergraduate research assistant at the Quantitative BioImaging Laboratory, where I work under Prof. Baowei Fei. 
 My current research interests include computer aided diagnostics using Deep Learning, image-guided intrvention, and surgical robots. 
-Previously, I have worked under Prof. Robert Gregg at the Locomotor Control Systems Laboratory where I worked on projects involving advacned prosthesis and exoskeletons.
+Previously, I have worked under Prof. Robert Gregg at the Locomotor Control Systems Laboratory where I worked on projects involving advanced prosthesis and exoskeletons.
 
 Besides my academic and research work, I am passionate about leadership and community service. I am currently serving as the president of IEEE UT Dallas Student Branch, the largest engineering organization on campus. I am also the Student Representative for IEEE Region 5 where I represent 90 student branches in 12 southwestern states. 
 
