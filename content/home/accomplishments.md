@@ -40,4 +40,24 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Fiaz has been awarded the Undergraduate Research Scholar Award for his extraordinary contributions to research under     the supervision of Prof. Baowei Fei. This award will comes with a research stipend of $500 for the student and $300 for the supervisor. """
 
+[[item]]
+  organization = "The University of Texas at Dallas"
+  organization_url = ""
+  title = "School of Engineering Dean's List"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-12-15"
+  date_end = "2021-05-30"
+  description = """ Fiaz has been ranked in the top 10% five times out of his six semesters at The University of Texas at Dallas."""
+  
+[[item]]
+  organization = "The University of Texas at Dallas"
+  organization_url = ""
+  title = "Academic Excellence Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """This scholarship provides complete coverage of tuition and mandatory fees for four years of undergraduate education. It   also porvides a $1,000 per semester cash stipend to defray the costs of books, supplies and other expenses. """
+ 
 +++
