@@ -18,25 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "The University of Texas at Dallas"
-  organization_url = ""
-  title = "Undergraduate Research Scholar Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = ""
-  description = ""
 
-[[item]]
-  organization = "The University of Texas at Dallas"
-  organization_url = "utdallas.edu"
-  title = "5x School of Engineering Dean's List (Top 10%)"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
   
 [[item]]
   organization = "DataCamp"
