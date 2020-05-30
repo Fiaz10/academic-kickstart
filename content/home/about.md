@@ -8,6 +8,7 @@ weight = 20  # Order that this section will appear in.
 # Experience Widget
 widget = "experience"
 heedless = true
+active = true
 weight = 30
 
 title = "Biography"
