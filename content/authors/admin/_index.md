@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fiaz Bhuiyan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The University of Texas at Dallas
+  url: "utdallas.edu"
+
+- name: The Institute of Electrical and Electronics Engineers
+  url: "https://www.ieee.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like to solve problems and make things work, be it in the research lab or in technical management.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- IoT
+- Hardware and Software Automation
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S. Computer Engineering
+    institution: The University of Texas at Dallas
+    year: 2021
+  - course: International A-Levels 
+    institution: Bangladesh International School & College
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'fiaz.bhuiyan@utdallas.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/fiaz10/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=dHcp2GoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Fiaz10
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +72,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Fiaz, a senior Computer Engineering student at The University of Texas at Dallas (UTD). I'm currently an undergraduate research assistant at the Quantitative BioImaging Laboratory, where I work under Prof. Baowei Fei. 
+My current research interests include computer aided diagnostics using Deep Learning, image-guided intrvention, and surgical robots. 
+Previously, I have worked under Prof. Robert Gregg at the Locomotor Control Systems Laboratory where I worked on projects involving advacned prosthesis and exoskeletons.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Besides my academic and research work, I am passionate about leadership and community service. I am currently serving as the president of IEEE UT Dallas Student Branch, the largest engineering organization on campus. I am also the Student Representative for IEEE Region 5 where I represent 90 student branches in 12 southwestern states. 
+
+In my free time, I enjoy playing soccer, outdoor photography, experimenting with cooking, reading books, or watching Netflix.
