@@ -33,10 +33,10 @@ subtitle = ""
   description = ""
 
 # Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
+ [[feature]]
+  icon = ":smile:"
+  icon_pack = "emoji"
+  name = "Emojiness"
 #  description = "100%"  
 
 # Uncomment to use custom SVG icons.
