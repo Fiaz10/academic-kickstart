@@ -1,6 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"
+headless = true
 active = true
 date = 2016-04-20T00:00:00
 
