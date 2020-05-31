@@ -14,7 +14,7 @@ summary = "Built a completely autonomous robot for the IEEE Region 5 Robotics Co
 image_preview = "bot.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.google.com/search?q=roboti&safe=active&sxsrf=ALeKk01Cy3mSzJEGmloORIhZ_GZcdRL46g:1590951985799&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAi9__5d7pAhVDiqwKHc6FCbQQ_AUoAXoECBUQAw&biw=1920&bih=946#imgrc=8cDTfFC0FnNleM"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
