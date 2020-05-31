@@ -29,25 +29,25 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
+# [[filter]]
+#  name = "All"
+#  tag = "*"
 
-[[filter]]
-  name = "Research"
-  tag = "research"
+# [[filter]]
+#  name = "Research"
+#  tag = "research"
 
-[[filter]]
-  name = "Machine Learning"
-  tag = "machine-learning"
+# [[filter]]
+# name = "Machine Learning"
+#  tag = "machine-learning"
 
-[[filter]]
-  name = "Math"
-  tag = "math"
+# [[filter]]
+#  name = "Math"
+#  tag = "math"
 
-[[filter]]
-  name = "Mobile Development"
-  tag = "mobile-development"
+# [[filter]]
+#  name = "Mobile Development"
+#  tag = "mobile-development"
 
 +++
 
