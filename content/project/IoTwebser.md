@@ -11,7 +11,7 @@ tags = ["IoT", "embedded systems", "healthcare"]
 summary = "Built a web server to display real-time diagnostic data received from the various sensors using WebSocket. The data was then relayed to a cloud server for remote access."
 
 # Optional image to display on homepage.
-image_preview = "IoT.jpg"
+image_preview = "iot.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "iot.jpg"
 caption = ""
 
 +++
