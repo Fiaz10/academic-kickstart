@@ -1,5 +1,5 @@
 +++
-title = "Image guided mitral valve replacement: registration of 3D ultrasound and 2D x-ray images"
+title = "mitralValve"
 date = 2020-03-09T17:45:39-04:00
 draft = false
 
@@ -22,8 +22,7 @@ publication = "Image guided mitral valve replacement: registration of 3D ultraso
 # publication_short = "DeepPR"
 
 # Abstract and optional shortened version.
-abstract = "Mitral valve repair or replacement is important in the treatment of mitral regurgitation. For valve replacement, a transcatheter approach had the possibility of decrease the invasiveness of the procedure while retaining the benefit of replacement over repair. However, fluoroscopy images acquired during the procedure provide no anatomical information regarding the placement of the probe tip once the catheter has entered a cardiac chamber. By using 3D ultrasound and registering the 3D ultrasound images to the fluoroscopy images, a physician can gain a greater understanding of the mitral valve region during transcatheter mitral valve replacement surgery. In this work, we present a graphical user interface which allows the registration of two co-planar X-ray images with 3D ultrasound during mitral valve replacement surgery.
-© (2020) COPYRIGHT Society of Photo-Optical Instrumentation Engineers (SPIE). Downloading of the abstract is permitted for personal use only."
+abstract = "Mitral valve repair or replacement is important in the treatment of mitral regurgitation. For valve replacement, a transcatheter approach had the possibility of decrease the invasiveness of the procedure while retaining the benefit of replacement over repair. However, fluoroscopy images acquired during the procedure provide no anatomical information regarding the placement of the probe tip once the catheter has entered a cardiac chamber. By using 3D ultrasound and registering the 3D ultrasound images to the fluoroscopy images, a physician can gain a greater understanding of the mitral valve region during transcatheter mitral valve replacement surgery. In this work, we present a graphical user interface which allows the registration of two co-planar X-ray images with 3D ultrasound during mitral valve replacement surgery."
 
 # abstract_short = ""
 
