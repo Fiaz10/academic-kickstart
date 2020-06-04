@@ -7,6 +7,12 @@ weight = 126  # Order that this section will appear.
 
 title = "My Photography"
 subtitle = "Some of my favourite shots"
+
+[design]
+
+columns = "1"
+
+view = 3
 +++
 
 {{< gallery >}}
