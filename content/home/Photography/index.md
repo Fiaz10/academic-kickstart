@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 126  # Order that this section will appear.
 
 title = "My Photography"
-subtitle = "Some of my favourite shots"
+subtitle = "Click on the picture for better quality"
 
 [design]
 
