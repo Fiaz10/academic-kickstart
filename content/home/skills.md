@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Coding"
   description = ""
   
 [[feature]]
   icon = "car-battery"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Circuit Design"
   description = ""  
   
