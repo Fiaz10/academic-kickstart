@@ -8,10 +8,12 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+
+# Uncomment when I have the post section
+#[[main]]
+ # name = "Posts"
+ # url = "#posts"
+ # weight = 40
 
 [[main]]
   name = "Projects"
@@ -21,7 +23,7 @@
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Contact"
