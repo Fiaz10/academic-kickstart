@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = ""
-  description = """ Fiaz has been awarded the Undergraduate Research Scholar Award for his extraordinary contributions to research under     the supervision of Prof. Baowei Fei. This award will comes with a research stipend for the student and the supervisor. """
+  description = """ Fiaz has been awarded the Undergraduate Research Scholar Award for his extraordinary contributions to research under     the supervision of Prof. Baowei Fei. This award comes with a research stipend for the student and the supervisor. """
 
 [[item]]
   organization = "The University of Texas at Dallas"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-12-15"
   date_end = "2021-05-30"
-  description = """ Fiaz has been ranked in the top 10% five times out of his six semesters at The University of Texas at Dallas."""
+  description = """ Fiaz has been ranked in the top 10% of his class for five semesters out of six at The University of Texas at             Dallas."""
   
 [[item]]
   organization = "The University of Texas at Dallas"
