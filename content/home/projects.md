@@ -56,7 +56,7 @@ subtitle = "All Things are Difficult Before They Are Easy - Thomas Fuller"
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
