@@ -53,7 +53,7 @@ subtitle = "All Things are Difficult Before They Are Easy - Thomas Fuller"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
