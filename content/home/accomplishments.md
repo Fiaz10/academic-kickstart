@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = ""
-  description = """ Fiaz has been awarded the Undergraduate Research Scholar Award for his extraordinary contributions to research under     the supervision of Prof. Baowei Fei. This award will comes with a research stipend of $500 for the student and $300 for the supervisor. """
+  description = """ Fiaz has been awarded the Undergraduate Research Scholar Award for his extraordinary contributions to research under     the supervision of Prof. Baowei Fei. This award will comes with a research stipend for the student and the supervisor. """
 
 [[item]]
   organization = "The University of Texas at Dallas"
@@ -58,6 +58,16 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-08-18"
   date_end = "2021-05-30"
-  description = """This scholarship provides complete coverage of tuition and mandatory fees for four years of undergraduate education. It   also porvides a $1,000 per semester cash stipend to defray the costs of books, supplies and other expenses. """
+  description = """This scholarship provides complete coverage of tuition and mandatory fees for four years of undergraduate education. It   also porvides a stipend per semester to defray the costs of books, supplies and other expenses. """
+ 
+ [[item]]
+  organization = "Pearson Edexcel Internation"
+  organization_url = ""
+  title = "World Highest Score in IGCSE Biology"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """ Fiaz attained the highest score in International General Certificate of Secondary Education (IGCSE) Biology, it is a     global examination taken by thousands of students in the United Kingdom and across the globe."""
  
 +++
