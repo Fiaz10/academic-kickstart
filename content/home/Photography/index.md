@@ -1,0 +1,12 @@
++++
+# Gallery section using the Blank widget and Gallery element (shortcode).
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 126  # Order that this section will appear.
+
+title = "My Photography"
+subtitle = "Some of my favourite shots"
++++
+
+{{< gallery >}}
