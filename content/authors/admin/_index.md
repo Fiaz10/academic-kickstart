@@ -81,5 +81,5 @@ Besides my academic and research work, I am passionate about leadership and comm
 In my free time, I enjoy playing soccer, outdoor photography, experimenting with cooking, reading books, or watching Netflix.
 
 ## **News**
-* (03/20/2020)"[Fiaz Receives the IEEE Outstanding Student Award for Region 5 from IEEE](https://engineering.utdallas.edu/news/archive/2020-summer/computer-engineering-senior-receives-ieee-award/)"
-* (01/1/2020) [Fiaz Appointed as the Regional Student Representative for IEEE Region 5](Fiaz Appointed as the Regional Student Representative for IEEE Region 5)
+* (03/20/2020) - [Fiaz Receives the IEEE Outstanding Student Award for Region 5 from IEEE](https://engineering.utdallas.edu/news/archive/2020-summer/computer-engineering-senior-receives-ieee-award/)
+* (01/1/2020) - [Fiaz Appointed as the Regional Student Representative for IEEE Region 5](https://fei-lab.org/undergraduate-student-selected-as-ieee-regional-representative/)
