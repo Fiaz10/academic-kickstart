@@ -79,3 +79,7 @@ Previously, I have worked under Prof. Robert Gregg at the Locomotor Control Syst
 Besides my academic and research work, I am passionate about leadership and community service. I am currently serving as the president of IEEE UT Dallas Student Branch, the largest engineering organization on campus. I am also the Student Representative for IEEE Region 5 where I represent 90 student branches in 12 southwestern states. 
 
 In my free time, I enjoy playing soccer, outdoor photography, experimenting with cooking, reading books, or watching Netflix.
+
+## **News**
+* (03/20/2020)"[Fiaz Receives the IEEE Outstanding Student Award for Region 5 from IEEE](https://engineering.utdallas.edu/news/archive/2020-summer/computer-engineering-senior-receives-ieee-award/)"
+* (01/1/2020) [Fiaz Appointed as the Regional Student Representative for IEEE Region 5](Fiaz Appointed as the Regional Student Representative for IEEE Region 5)
