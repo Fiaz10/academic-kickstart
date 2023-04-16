@@ -10,10 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: AI/ML Software Engineer - Autonomous Driving Mapping
 
 # Organizations/Affiliations
 organizations:
+- name: General Motors
+  url: "gm.com"
+  
 - name: The University of Texas at Dallas
   url: "utdallas.edu"
 
