@@ -75,13 +75,12 @@ user_groups:
 - Visitors
 ---
 
-I'm Fiaz, a senior Computer Engineering student at The University of Texas at Dallas (UTD). I'm currently an undergraduate research assistant at the Quantitative BioImaging Laboratory, where I work under Prof. Baowei Fei. 
-My research interests include computer aided diagnostics using deep learning, image-guided intrvention, and designing medical devices. 
-Previously, I have worked under Prof. Robert Gregg at the Locomotor Control Systems Laboratory where I worked on projects involving advanced prosthesis and exoskeletons.
+Fiaz is a hardworking and ambitious individual with extensive experience in software development, system design, and applied machine learning. His aptitude to effectively communicate, and his unwavering technical curiosity allows him to excel in working with cross-functional teams in high-paced development environments. He is experienced in working with teams across the globe to develop & deploy production software. He has worked on industry's leading hands-free autonomous driving technologies like SuperCruise and UltraCruise. 
 
-Besides my academic and research work, I am passionate about leadership and community service. I am currently serving as the president of IEEE UT Dallas Student Branch, the largest engineering organization on campus. I am also the Student Representative for IEEE Region 5 where I represent 90 student branches in 12 southwestern states. 
+Fiaz's academic, research, and industry experiences lies in Deep Learning, Computer Vision, Medical Imaging, IoT, Controls Systems, and full-stack software development. He has published his research paper on computer aided diagnostics in the SPIE International Journal for Medical Imaging. 
 
-In my free time, I enjoy playing soccer, outdoor photography, experimenting with cooking, reading books, or watching Netflix.
+Alongside his technical endeavours, Fiaz is passionate about leadership and community service. He was IEEE UTD President for 2 terms, spearheading a team of 50 officers and over 1200 members. He was also the regional student representative for IEEE Region 5 which included 12 Southwestern states in the US. 
+
 
 ## **News**
 * (03/20/2020) - [Fiaz Receives the IEEE Outstanding Student Award for Region 5 from IEEE](https://engineering.utdallas.edu/news/archive/2020-summer/computer-engineering-senior-receives-ieee-award/)
