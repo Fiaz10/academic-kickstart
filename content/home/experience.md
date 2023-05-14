@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "AI/ML Software Engineer - Autonomous Driving"
+  company = "General Motors"
+  company_url = "gm.com"
+  location = "Texas"
+  date_start = "2021-06-21"
+  
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Develope Mapping Software for UltraCruise - Industry's first hands-free end-to-end autonomous driving feature.
+  * Design and develop efficient algorithms in Python for UltraCruise, an end-to-end autonomous driving system
+  * Work with AI/ML scientists to implement the ML models in code and integrate them into the pipeline
+  * Use Docker images and Kubernetes for the runtime environment of the CI/CD system to build, test, and deploy
+  * Optimize algorithmic performance and reduce feature runtime by several order of magnitudes using vectorized routines in python
+  * Design features that can work seamlessly at ultra-large scale.
+
+  """
+
+[[experience]]
   title = "Undergraduate Research Assistant"
   company = "Quantitative BioImaging Lab at UT Dallas"
   company_url = ""
