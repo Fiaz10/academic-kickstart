@@ -1,0 +1,39 @@
+// Custom CSS overrides for Fiaz's website
+
+// About widget - swap order of education and interests
+.biography .education {
+  order: 1;
+}
+
+.biography .interests {
+  order: 2;
+}
+
+// Education with custom icons
+.education .courses li::before {
+  content: '';
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+// UTD icon for UTD courses
+.education .courses li[data-institution*="University of Texas at Dallas"]::before {
+  background-image: url('/assets/images/icon-pack/UTD.jpeg');
+}
+
+// Alternative approach - add icons via CSS classes
+.education-icon-utd {
+  background-image: url('/assets/images/icon-pack/UTD.jpeg');
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 8px;
+  vertical-align: middle;
+}

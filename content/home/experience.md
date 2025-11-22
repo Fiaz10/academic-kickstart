@@ -19,22 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "AI/ML Software Engineer - Autonomous Driving"
+  title = "AI/ML Software Engineer - SuperCruise Maps"
   company = "General Motors"
-  company_url = "gm.com"
-  location = "Texas"
-  date_start = "2021-06-21"
+  company_url = "https://www.gm.com"
+  location = "Austin, TX"
+  date_start = "2022-08-01"
   
   date_end = ""
   description = """
-  Responsibilities include:
+  Leading development of advanced geospatial intelligence systems:
 
-  * Develope Mapping Software for UltraCruise - Industry's first hands-free end-to-end autonomous driving feature.
-  * Design and develop efficient algorithms in Python for UltraCruise, an end-to-end autonomous driving system
-  * Work with AI/ML scientists to implement the ML models in code and integrate them into the pipeline
-  * Use Docker images and Kubernetes for the runtime environment of the CI/CD system to build, test, and deploy
-  * Optimize algorithmic performance and reduce feature runtime by several order of magnitudes using vectorized routines in python
-  * Design features that can work seamlessly at ultra-large scale.
+  * **HD Map Intelligence**: Led development of in-house pipeline to detect and remediate geometric anomalies in supplier HD maps using Databricks, PySpark, Sedona, Shapely, and PyProj, expanding SuperCruise coverage to 589,809+ miles for 420,000+ users
+  * **Impact & Recognition**: Remediated 1,284 critical locations, achieving 93% reduction in map-related escalations and 3x increase in customer engagements, contributing to MotorTrend's "Best Tech Award"
+  * **Big Data Infrastructure**: Developed fully automated, scalable ETL pipeline to ingest high-volume HSVT vehicle telemetry data from on-premises to Databricks Delta Lake using PySpark, Kubernetes, Azure Synapse, reducing data latency to under 24 hours
+  * **Cost Optimization**: Implemented automated data governance and lifecycle management for ADLS and Delta Lake, achieving 600TB storage reduction and $100K annual savings
+  * **ML Innovation**: Developed ML models progressing from heuristic algorithms to advanced clustering (HDBSCAN) to infer driving behaviors from HSVT data for optimal vehicle selection
+
+  """
+
+[[experience]]
+  title = "Software Engineer - ADAS Controls Software"
+  company = "General Motors"
+  company_url = "https://www.gm.com"
+  location = "Milford, MI"
+  date_start = "2021-06-01"
+  date_end = "2022-08-01"
+  description = """
+  Developing production software for autonomous driving systems:
+
+  * **Production Software**: Developed C/C++ production software for Driver Monitoring System in SuperCruise autonomous driving platform
+  * **Cost Savings**: Created automatic after-market hardware detection algorithm for trucks, saving $1.5M annually in technician costs
+  * **System Integration**: Collaborated with cross-functional teams to integrate safety-critical software components
+
+  """
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Murata Manufacturing"
+  company_url = "https://www.murata.com"
+  location = "Carrollton, TX"
+  date_start = "2020-08-01"
+  date_end = "2021-05-01"
+  description = """
+  Building IoT systems with machine learning integration:
+
+  * **IoT Development**: Built IoT sensor network with LoRa communication for room occupancy prediction
+  * **Full-Stack Solution**: Deployed Python MQTT parser on Linux server with SQL database, integrating hardware sensors with deep learning model
+  * **ML Performance**: Achieved 90%+ prediction accuracy for occupancy detection system
 
   """
 

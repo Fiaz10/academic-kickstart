@@ -15,55 +15,58 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "code"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Coding"
-  description = ""
+  name = "AI/ML Engineering"
+  description = "LLMs, VLMs, Deep Learning"
   
 [[feature]]
-  icon = "car-battery"
+  icon = "globe"
   icon_pack = "fas"
-  name = "Circuit Design"
-  description = ""  
+  name = "Geospatial Intelligence"
+  description = "Apache Sedona, Shapely, PyProj"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = ""
+  name = "Big Data Systems"
+  description = "PySpark, Databricks, Distributed Computing"
+  
+[[feature]]
+  icon = "car"
+  icon_pack = "fas"
+  name = "Autonomous Vehicles"
+  description = "SuperCruise, UltraCruise, HD Mapping"
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "MLOps & DevOps"
+  description = "Docker, Kubernetes, CI/CD"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python & Analytics"
+  description = "Advanced ML Pipelines"
   
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
   name = "Leadership"
-  
-[[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
+  description = "IEEE President, Team Management"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Project Management"
-  
-  
-[[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Robotics"
-  
-[[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Deep Learning"
+  name = "Research & Innovation"
+  description = "SPIE Publications, Algorithm Design"
 
-# Uncomment to use emoji icons.
- [[feature]]
-  icon = ":smile:"
-  icon_pack = "emoji"
-  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "Creative Visual Storytelling"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.

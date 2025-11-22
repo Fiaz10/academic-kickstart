@@ -23,6 +23,20 @@ collections:
             multiple: false
       - {label: "Short biography (shown in author boxes)", name: "bio", widget: "string", required: false}
       - {label: "Full biography (shown in About widget)", name: "body", widget: "markdown", required: false}
+      - label: "Education"
+        name: "education"
+        required: false
+        widget: object
+        fields:
+          - label: "Courses"
+            name: "courses"
+            required: false
+            widget: list
+            fields:
+              - {label: Course, name: course, widget: string, required: true}
+              - {label: Institution, name: institution, widget: string, required: true}
+              - {label: Year, name: year, widget: number, valueType: int, required: false}
+              - {label: Logo, name: logo, widget: string, required: false, hint: "Filename of logo image in assets/images/icon-pack/"}
       - label: "Interests (shown in About widget)"
         name: "interests"
         required: false
@@ -51,19 +65,6 @@ collections:
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
-      - label: "Education"
-        name: "education"
-        required: false
-        widget: object
-        fields:
-          - label: "Courses"
-            name: "courses"
-            required: false
-            widget: list
-            fields:
-              - {label: Course, name: course, widget: string, required: true}
-              - {label: Institution, name: institution, widget: string, required: true}
-              - {label: Year, name: year, widget: number, valueType: int, required: false}
       - {label: "Email (to use a Gravatar.com avatar)", name: "email", widget: "string", required: false}
       - label: "Super user (is this the primary site user?)"
         name: "superuser"

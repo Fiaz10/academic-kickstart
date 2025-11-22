@@ -1,0 +1,43 @@
+/* Custom CSS for Fiaz's website */
+
+/* About widget - try to control the flexbox order */
+.biography-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.biography-content .interests {
+    order: 2;
+    flex: 1 1 50%;
+}
+
+.biography-content .education {
+    order: 1;  
+    flex: 1 1 50%;
+}
+
+/* Alternative targeting for the about widget */
+.widget-about .row .col-md-6:nth-child(1) {
+    order: 2;
+}
+
+.widget-about .row .col-md-6:nth-child(2) {
+    order: 1;
+}
+
+/* Education icons */
+.education .courses .course::before {
+    content: '';
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* UTD icon */
+.education .courses .course[data-institution*="Dallas"]::before {
+    background-image: url('/img/UTD.jpeg');
+}
