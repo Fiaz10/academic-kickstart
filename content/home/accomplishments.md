@@ -31,16 +31,6 @@ date_format = "Jan 2006"
   description = """Contributed to SuperCruise hands-free driving technology that received MotorTrend's prestigious 'Best Tech Award'. Fiaz's algorithmic development helped expand coverage to 589,000+ miles, reduce map-related escalations by 93%, and triple customer engagement on remediated road segments."""
 
 [[item]]
-  organization = "General Motors - SuperCruise Maps Team"
-  organization_url = "https://www.gm.com/stories/supercruise"
-  title = "Lead Algorithm Developer - HD Map Intelligence"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-06-01"
-  date_end = ""
-  description = """Leading development of ML algorithms for HD map anomaly detection and resolution, enabling safer autonomous driving. Achievements include 589,000+ miles of SuperCruise coverage expansion, 93% reduction in map-related customer escalations, and 3x increase in customer engagement on remediated segments."""
-
-[[item]]
   organization = "Institute of Electrical and Electronics Engineers (IEEE)"
   organization_url = ""
   title = "Outstanding Student Member Award - IEEE Region 5"
