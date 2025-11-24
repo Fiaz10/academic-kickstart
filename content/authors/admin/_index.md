@@ -10,37 +10,47 @@ authors:
 superuser: true
 
 # Role/position
-role: AI/ML Software Engineer - Autonomous Driving Mapping
+role: AI/ML Engineer - Geospatial Intelligence & Autonomous Driving
 
 # Organizations/Affiliations
 organizations:
 - name: General Motors
-  url: "gm.com"
+  url: "https://www.gm.com"
+
+- name: The University of Texas at Austin
+  url: "https://www.utexas.edu/"
   
 - name: The University of Texas at Dallas
-  url: "utdallas.edu"
+  url: "https://www.utdallas.edu"
 
 - name: The Institute of Electrical and Electronics Engineers
   url: "https://www.ieee.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like to solve problems and make things work, be it in the research lab or in technical management.
-
-interests:
-- Artificial Intelligence
-- Computer Vision
-- IoT
-- Hardware and Software Automation
-
+bio: Results-driven AI/ML engineer with expertise in large-scale data systems, geospatial intelligence, and autonomous vehicle technologies. Leading algorithmic development for SuperCruise and UltraCruise mapping systems.
 
 education:
   courses:
+  - course: M.S. Artificial Intelligence
+    institution: The University of Texas at Austin
+    year: 2026
   - course: B.S. Computer Engineering
     institution: The University of Texas at Dallas
     year: 2021
-  - course: International A-Levels 
+  - course: IGCSE A-Levels 
     institution: Bangladesh International School & College
     year: 2016
+
+interests:
+- Large Language Models (LLMs)
+- Vision-Language Models (VLMs)
+- Geospatial Intelligence & Mapping
+- Autonomous Vehicle Systems
+- Distributed ML Systems
+- Computer Vision
+- Deep Learning Architectures
+- Leadership & Innovation
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,13 +85,19 @@ user_groups:
 - Visitors
 ---
 
-Fiaz is a hardworking and ambitious individual with extensive experience in software development, system design, and applied machine learning. His aptitude to effectively communicate, and his unwavering technical curiosity allows him to excel in working with cross-functional teams in high-paced development environments. He is experienced in working with teams across the globe to develop & deploy production software. He has worked on industry's leading hands-free autonomous driving technologies like SuperCruise and UltraCruise. 
+I’m an AI/ML engineer who enjoys working at the intersection of large-scale data systems, geospatial intelligence, and real-world engineering. At General Motors, I focus on advancing SuperCruise mapping technologies by building scalable algorithms and data pipelines that make autonomous driving safer and more reliable.
 
-Fiaz's academic, research, and industry experiences lies in Deep Learning, Computer Vision, Medical Imaging, IoT, Controls Systems, and full-stack software development. He has published his research paper on computer aided diagnostics in the SPIE International Journal for Medical Imaging. 
+On the SuperCruise Maps team, I help develop the systems that detect and fix HD map anomalies before they reach customers. My team's work played a key role in expanding SuperCruise to over 589,000 miles and reducing map-related escalations by 93%, contributing to MotorTrend’s “Best Tech Award.” Most of my day-to-day involves architecting pipelines, writing code, and turning ML ideas into production-ready systems that can handle petabyte-scale geospatial data.
 
-Alongside his technical endeavours, Fiaz is passionate about leadership and community service. He was IEEE UTD President for 2 terms, spearheading a team of 50 officers and over 1200 members. He was also the regional student representative for IEEE Region 5 which included 12 Southwestern states in the US. 
+I’m also currently pursuing a Master’s in AI/ML at UT Austin, which gives me the chance to deepen my understanding of the math and theory behind the tools I use at work—everything from probability and statistics to modern LLM and VLM architectures. 
+
+Beyond work, I'm passionate about coffee—everything from roasting and brewing to reading about different coffee cultures and, of course, drinking great coffee. I'm also an amateur badminton player who competes in local tournaments, currently wielding an Arcsaber 11 Pro. In my free time, I enjoy spending quality time with family, reading books, and exploring new places and cuisines.
+
+What motivates me most is solving meaningful problems with thoughtful people. I’m drawn to challenges where AI, large data systems, and real-world impact meet, and I enjoy being part of teams that take ideas from concept to production.
 
 
-## **News**
-* (03/20/2020) - [Fiaz Receives the IEEE Outstanding Student Award for Region 5 from IEEE](https://engineering.utdallas.edu/news/archive/2020-summer/computer-engineering-senior-receives-ieee-award/)
-* (01/1/2020) - [Fiaz is Appointed as the Regional Student Representative for IEEE Region 5](https://fei-lab.org/undergraduate-student-selected-as-ieee-regional-representative/)
+<!-- ## **News**
+* (2024) - **SuperCruise Team** contributes to MotorTrend's "Best Tech Award" with 589,000+ mile coverage expansion and 93% reduction in map-related escalations
+* (2021-Present) - **Leading AI/ML Development** at General Motors for SuperCruise and UltraCruise autonomous driving mapping systems
+* (2024-2026) - **Pursuing M.S. in AI/ML** at The University of Texas at Austin, focusing on LLMs, VLMs, and modern deep learning architectures
+* (2020) - [IEEE Outstanding Student Award for Region 5](https://engineering.utdallas.edu/news/archive/2020-summer/computer-engineering-senior-receives-ieee-award/) - Recognized for exceptional contributions to IEEE community -->

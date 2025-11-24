@@ -15,14 +15,15 @@
  # url = "#posts"
  # weight = 40
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+# Projects tab removed - section is disabled
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Experience"
+  url = "#experience"
   weight = 20
 
 [[main]]
